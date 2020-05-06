@@ -1,0 +1,40 @@
+#bg{
+    background-image: url("images/form.jpeg");
+ }
+
+ /* registration and login form styling */
+ .main_header{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#side_header{
+    color: #ffffff;
+    padding: 4%;
+    text-align: center;
+}
+.register{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+form{
+    padding: 6%;
+}
+label{
+    color: #ffffff;
+    font-weight: bold;
+    font-family: verdana;
+}
+.warning_text{
+    color: #ffffff;
+    font-style: italic;
+}
+.warning_text span{
+    color: yellowgreen;
+    text-transform: capitalize;
+}
+ /* profile page styling */
+.user_header{
+    margin-top: 5%;
+    font-style: italic;
+}
+
